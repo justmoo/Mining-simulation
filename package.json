@@ -1,0 +1,14 @@
+{
+  "name": "mining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mine.js",
+  "scripts": {
+    "start": "node mine.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hash.js": "^1.1.7"
+  }
+}
